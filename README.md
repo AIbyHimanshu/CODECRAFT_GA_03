@@ -41,7 +41,7 @@ Corpus → Tokenize → Build Transition Table → Weighted Sampling → Generat
 CODECRAFT_GA_03/
 │
 ├── GA_03.ipynb      # Main Colab notebook
-├── README.md               # This file
+└── README.md               # This file
 ```
 
 ---
@@ -55,13 +55,6 @@ CODECRAFT_GA_03/
 1. Open `GA_03.ipynb` in Google Colab
 2. Run all cells (`Runtime → Run All`)
 3. No external dependencies required — uses only Python standard library
-
-### Run Locally
-
-```bash
-# Python 3.7+ required, no pip installs needed
-python GA_03.py
-```
 
 ---
 
